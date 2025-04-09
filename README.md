@@ -67,6 +67,3 @@ Basta scaricare (o clonare) il file `.py` dello script.
 
 Questo progetto è rilasciato sotto la Licenza MIT. Vedi il file `LICENSE` per maggiori dettagli (o puoi aggiungere qui i dettagli della licenza se preferisci non avere un file separato).
 
----
-
-*(Facoltativo: puoi aggiungere sezioni come "Come Contribuire", "Autore", "Problemi Noti", ecc.)*
